@@ -1,1 +1,3 @@
-# odin-etch-a-sketch
+# Etch-A-Sketch
+
+Project exercise for The Odin Project.
